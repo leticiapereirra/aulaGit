@@ -8,5 +8,6 @@ Descrição inicial do meu READ ME
 
 ## para que serve este arquivo?
 
-tem a funçao de ...
+tem a funçao de descrev as funcionalidades do software
+
 
